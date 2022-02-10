@@ -18,7 +18,7 @@ This repository contains implementation of a slicer extension to plot line inten
 
 2. Familiarity with 3D Slicer
 
-# Instructions
+# Instructions to Use
 
 1. **Load Test Data**
     
@@ -57,6 +57,14 @@ This repository contains implementation of a slicer extension to plot line inten
     ![Apply_Ruler.png](Images/Apply_Ruler.png)
     
     ![New_Ruler_Results.png](Images/New_Ruler_Results.png)
+
+# **Example Results**
+
+![Coronal_Results.png](Images/Coronal_Results.png)
+
+![Sagittal_Results.png](Images/Sagittal_Results.png)
+
+![Axial_Results.png](Images/Axial_Results.png)
 
 # Acknowledgment
 
