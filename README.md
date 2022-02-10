@@ -4,7 +4,7 @@ This repository contains implementation of a slicer extension to plot line inten
 
 # Requirements
 
-1. **Tools**
+**1. Tools**
 
 1. 3D Slicer - version 4.5 or above
 
@@ -12,7 +12,7 @@ This repository contains implementation of a slicer extension to plot line inten
 
 2. Text Editor
 
-2. **Knowledge**
+**2. Knowledge**
 
 1. Python Programming
 
@@ -39,6 +39,8 @@ This repository contains implementation of a slicer extension to plot line inten
     MR brain slices of the two image volumes - MRBrainTumor1 and MRBrainTumor2 are loaded with a predefined ruler. Line intensity profile chart displays intensity levels of pixels along the predefined ruler.
     
     ![Reload_and_Test.png](Images/Reload_and_Test.png)
+    
+    ![Results.png](Images/Results.png)
 
 4. **Change Ruler Placement**
     
